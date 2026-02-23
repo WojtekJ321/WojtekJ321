@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hi, I'm Wojciech Jakubiak
 
-<!--
-**WojtekJ321/WojtekJ321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Junior Game Developer | C# & Unity Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+I'm a computer science student and aspiring game developer who enjoys building projects, solving problems, and learning new technologies.
+I work well under pressure, stay organized, and always look for efficient solutions.
+
+---
+
+
+### 📚 Currently learning
+
+* Advanced Unity systems
+* Game architecture patterns
+* Optimization techniques
+
+---
+
+### 🎯 Interests
+
+🎮 Game development
+🧠 Algorithms & problem solving
+🎨 3D graphics
+🏀 Sports & teamwork
+
+---
+
+### 🧩 Skills
+
+* C++, C#, SQL, HTML, CSS
+* Unity Engine
+* Data structures & algorithms
+* 3Ds Max & AutoCAD
+* English — C1 level
+
+---
+
+
+### 📫 Contact
+
+📧 [wojtek.jakubiak321@gmail.com](mailto:wojtek.jakubiak321@gmail.com)
