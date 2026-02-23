@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Wojciech Jakubiak
+### 👋 Hi, I'm Wojciech Jakubiak
 
 🎮 **Junior Game Developer | C# & Unity Developer**
 
@@ -39,6 +39,11 @@ I work well under pressure, stay organized, and always look for efficient soluti
 
 ---
 
+### Team Projects Contribution
+I actively contributed to all team projects shown on my profile.  
+My responsibilities included gameplay programming, implementing mechanics, debugging systems, and developing features in Unity using C#.
+
+---
 
 ### 📫 Contact
 
